@@ -1,9 +1,16 @@
-## Proposed changes
+HEADER 2 - Proposed changes
+LINE BREAK
 
+HEADER 2 - Link to Product Tracker
+ITALICS - This will be a link to the issue you are specifically tasked with resolving.
 
-## Types of changes
+HEADER 2 - Link to Figma/Zeplin
 
-**Changes include adding JavaScript files welcome.js and getName.js while using Git commands.** 
+ITALICS - This will be a link to the map or design behind the change decisions.
+
+HEADER 2 - Types of changes
+
+ITALICS - What types of changes does your code introduce?
 
 _Put an `x` in the boxes that apply_
 
@@ -30,3 +37,4 @@ HEADER 2 - Screenshots if applicable
 
 ITALICS - Include screenshots in case of UI changes
 _adding change for demo
+
