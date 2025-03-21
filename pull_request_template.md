@@ -1,4 +1,4 @@
-HEADER 2 - Proposed changes
+## Proposed changes
 LINE BREAK
 
 HEADER 2 - Link to Product Tracker
@@ -8,9 +8,9 @@ HEADER 2 - Link to Figma/Zeplin
 
 ITALICS - This will be a link to the map or design behind the change decisions.
 
-HEADER 2 - Types of changes
+## Types of changes
 
-ITALICS - What types of changes does your code introduce?
+*two JavaScript files that greets users and checks names.*
 
 _Put an `x` in the boxes that apply_
 
